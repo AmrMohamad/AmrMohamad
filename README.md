@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Amr 👋, a junior iOS developer 👨‍💻 Graduated in 2020 🚀 Working IT Engineer at CSG for all computer services company in Egypt</div>  
+### <div align="center">I'm Amr 👋, a junior iOS developer 👨‍💻 Graduated in 2020 🚀 ex IT Engineer at CSG for all computer services company in Egypt</div>  
   
 
 - 🔭 I’m currently working on [CSG](http://compusciencegroup.com/)  

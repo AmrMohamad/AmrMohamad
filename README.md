@@ -9,7 +9,7 @@
 ### <div align="center">I'm Amr 👋, a junior iOS developer 👨‍💻 Graduated in 2020 🚀 ex IT Engineer at CSG for all computer services company in Egypt</div>  
   
 
-- 🔭 I was working on [CSG](http://compusciencegroup.com/)  
+- 🔭 I was working on [CSG](http://compusciencegroup.com/)  as IT Engineer and Store manager
   
 
 - 🌐 I’m currently learning Web Development and Odoo ERP development  

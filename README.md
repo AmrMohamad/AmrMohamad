@@ -87,11 +87,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+    
+<br/>
+
+<div align="center"> 
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrMohamad&show_icons=true&locale=en&layout=compact" alt="AmrMohamad" />
+    </p>
+</div>
+
 
 <br/>  
  
-  
+<br/>
 
 <br/>  
 

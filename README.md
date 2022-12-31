@@ -1,12 +1,12 @@
 
 
-# Welcome to My Github   
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:45%" />
-</div>  
+# Welcome to My Github  <br><img src="https://komarev.com/ghpvc/?username=AmrMohamad&&style=flat-square" align="center" /> 
+
+<h1 align="center" style="width:45%" ><b>Hi , I'm Amr Mohamad </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">😃</h1>
+
   
 
-### <div align="center">I'm Amr 👋, a junior iOS developer 👨‍💻 Graduated in 2020 🚀 ex IT Engineer at CSG for all computer services company in Egypt</div>  
+### <div align="center">I'm a junior iOS developer 👨‍💻 Graduated in 2020 🚀 ex IT Engineer at CSG for all computer services company in Egypt</div>  
   
 
 - 🔭 I was working on [CSG](http://compusciencegroup.com/)  as IT Engineer and Store manager
@@ -86,17 +86,11 @@
 
 
 ## Github Stats  
+
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-    
-<br/>
-
-<div align="center"> 
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrMohamad&show_icons=true&locale=en&layout=compact" alt="AmrMohamad" />
-    </p>
+<img src="https://github-readme-stats.vercel.app/api?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrMohamad&show_icons=true&locale=en&layout=compact" alt="AmrMohamad" />
 </div>
-
 
 <br/>  
  
@@ -107,14 +101,6 @@ ___
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=amr.mohamed124124&cover_image=true&theme=default" width="25%"/></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AmrMohamad&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
 

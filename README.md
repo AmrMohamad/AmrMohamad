@@ -73,7 +73,7 @@
 <a href="https://github.com/AmrMohamad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Amr__Mohamad" target="_blank">
+<a href="https://twitter.com/__AmrMhmd" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/amr-mohamad-3a3a59143" target="_blank">
@@ -89,7 +89,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrMohamad&show_icons=true&locale=en&layout=compact" alt="AmrMohamad" />
+<img src="https://github-readme-stats.vercel.app/api/?username=AmrMohamad&show_icons=true&count_private=true&hide_border=true" align="center" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMohamad&show_icons=true&locale=en&layout=compact" alt="AmrMohamad" />
 </div>
 
 <br/>  

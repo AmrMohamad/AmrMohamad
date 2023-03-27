@@ -12,7 +12,10 @@
 - 🔭 I was working on [CSG](http://compusciencegroup.com/)  as IT Engineer and Store manager
   
 
-- 🌐 I’m currently learning Web Development and Odoo ERP development  
+- 📱 I’m currently learning and improving iOS Development skills
+
+
+- 🌐 I’m currently learning Web Development 
   
 
 - ⚡ Fun fact: I use a lot of tabs and my RAMs scare of me  

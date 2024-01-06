@@ -20,11 +20,9 @@
 ### Mobile Development
 
 <div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="54" /> 
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="54" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="54" />  
 </div>
 
 </td><td valign="top" width="30%">
@@ -44,9 +42,7 @@
 ### Backend
 
 <div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />     
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
